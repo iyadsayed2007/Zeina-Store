@@ -1,0 +1,6 @@
+{
+  "name": "Zeina Store",
+  "description": "متجر زينة للإكسسوارات والمجوهرات الحريمي الفاخرة - تشكيلة راقية من أطقم الزفاف، السلاسل، الخواتم، والأساور الفاخرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
